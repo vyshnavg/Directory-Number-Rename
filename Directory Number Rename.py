@@ -39,4 +39,4 @@ rename(folderPath ,extension)
 #         os.rename(pathAndFilename, 
 #                   os.path.join(dir, s + ext))
 
-# rename(r'C:\Users\vyshn\Desktop\test', r'*.txt', r'new(%s)')
+# rename(r'C:\Users\', r'*.txt', r'new(%s)')
